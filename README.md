@@ -25,3 +25,21 @@ This project was developed using HTML, CSS, and JavaScript. It is compatible wit
 Contributions, issues, and feature requests are welcome. Feel free to check the issues page if you want to contribute.
 
 ----
+
+
+## How to Use the Dark Mode Extension in Chrome
+## 1. How to Install the Extension
+Open your Chrome web browser.
+Navigate to the Chrome Web Store.
+In the search bar, type "Dark Mode Extension" and press Enter.
+Find the Dark Mode Extension in the search results and click on it.
+Click on the "Add to Chrome" button.
+In the confirmation dialog that appears, click on "Add Extension" to confirm the installation.
+Once installed, you'll see the Dark Mode Extension icon added to your Chrome toolbar.
+## 2. Enable the Extension
+Click on the Dark Mode Extension icon in the Chrome toolbar. This will open a popup window with a switch button.
+By default, the extension will be in the light mode.
+Click on the switch button to toggle between light and dark mode. You'll notice the appearance of web pages change accordingly.
+## 3. Toggle Between Light and Dark Mode
+To switch between light and dark mode, simply click on the switch button in the Dark Mode Extension popup window.
+Each click will toggle the mode, allowing you to choose the mode that suits your preference.
